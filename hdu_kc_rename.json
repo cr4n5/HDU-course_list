@@ -1,0 +1,33 @@
+{
+    "kch" : "课程号",
+    "kcmc" : "课程名称",
+    "kkztmc": "是否开课",
+    "bpkbj": "是否排课",
+    "xkbjmc": "选课标记",
+    "sksj": "上课时间",
+    "jxdd": "上课地点",
+    "cdlbmc": "场地名称",
+    "cdejlbmc": "场地具体名称",
+    "jzgxx": "教职工信息",
+    "jscsrq": "教师出生日期",
+    "jsxb": "教师性别",
+    "kkbm": "开课部门",
+    "xf": "学分",
+    "zczymc": "授课学院",
+    "jxbrl" : "教学班容量",
+    "jxbrs" : "教学班人数",
+    "xkrs": "选课人数",
+    "mxdx": "面向对象",
+
+    "jxbmc" : "教学班名称",
+    "jxbzc": "授课班级",
+    "skdxssxy": "授课详情",
+
+    "kklxmc": "开课类型",
+    "kcxzmc": "课程性质",
+    "kclbmc": "课程类别",
+
+    "kczhxs": "讲课学时",
+    "khfsmc": "考核方式",
+    "xkbz": "学科备注"
+}
