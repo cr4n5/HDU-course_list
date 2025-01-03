@@ -1,4 +1,5 @@
 {
+    "jxbmc" : "教学班名称",
     "kch" : "课程号",
     "kcmc" : "课程名称",
     "kkztmc": "是否开课",
@@ -19,13 +20,11 @@
     "xkrs": "选课人数",
     "mxdx": "面向对象",
 
-    "jxbmc" : "教学班名称",
     "jxbzc": "授课班级",
     "skdxssxy": "授课详情",
 
     "kklxmc": "开课类型",
-    "kcxzmc": "课程性质",
-    "kclbmc": "课程类别",
+    "kcgsmc": "课程归属",
 
     "kczhxs": "讲课学时",
     "khfsmc": "考核方式",
